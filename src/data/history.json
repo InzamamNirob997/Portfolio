@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Information & Technology Intern",
+      "organisation": "Banglalink",
+      "startDate": "January, 2023 ",
+      "endDate": " April, 2023",
+      "experiences": ["  QA testing activities, assisting QA engineers in designing test cases, executing test scripts, and reporting bugs", "  Technical support to end-users", "Assisting with troubleshooting IT issues, resolving user queries, and escalating complex problems to senior IT staff"],
+      "imageSrc": "history/Bangla2.png"
+    },
+    {
+      "role": "HR Intern",
+      "organisation": "GAOTEK USA",
+      "startDate": "June, 2022",
+      "endDate": "October, 2022",
+      "experiences": [" Developing plans for hiring & and distribution in different places in Dhaka.", "  Ensuring monthly review meetings in the team HR", "Establishing team and individual goals and providing effective coaching to newcomers and higher representatives to consistently improve their performance"],
+      "imageSrc": "history/Gaotek.png"
+    }
+  ]

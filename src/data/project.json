@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Age Calculator",
+      "imageSrc": "projects/AgeCal2.png",
+      "description": "This is a project made to calclulate the age of a person since his birth to now. You can find you exact age here and the accurate way  also",
+  
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://inzamamnirob997.github.io/Age_Calculator_Wesbiste/",
+      "source": "https://github.com/InzamamNirob997/Age_Calculator_Wesbiste"
+    },
+  
+    {
+      "title": "Translator",
+      "imageSrc": "projects/Translate.png",
+      "description": "This is a project made to Translate different language from your native one",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://nirobthewebdeveloper.github.io/Translator.github.io/",
+      "source": "https://github.com/NirobTHEwebdeveloper/Translator.github.io"
+    },
+    {
+      "title": "Latest News",
+      "imageSrc": "projects/BreakingNews.png",
+      "description": "This is a project made for getting the latest breaking news.",
+      "skills": ["React Js", "HTML", "CSS", "API", " React-router"],
+      "demo": "https://github.com/InzamamNirob997/Breaking_News",
+      "source": "https://github.com/InzamamNirob997/Breaking_News"
+    }
+  ]
